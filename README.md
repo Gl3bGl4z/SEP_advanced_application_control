@@ -9,7 +9,7 @@ Documentation will be updated. Please use the WORD document meanwhile
 
 APPLICATION CONTROL RULES FOR DEFENDING AGAINST ADVANCED ATTACKS BY MALWARE AND HACKERS 
 By Gleb Glazkov
-https://twitter.com/Gl3bGl4z  | glebglaz@protonmail.com | https://github.com/Gl3bGl4z/
+https://twitter.com/Gl3bGl4z  | glebglaz@protonmail.com
 Supported product: Symantec Endpoint Protection 14+
 App control rules: Version: (6 GTA)
 
